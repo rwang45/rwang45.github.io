@@ -2,37 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>n°45</title>
   
-  
+  <subtitle>All we are is dust in the wind.</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-18T12:52:07.643Z</updated>
+  <updated>2020-09-18T18:40:26.222Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>WANG Rongzi</name>
+    <name>n45</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2020/09/18/hello-world/"/>
-    <id>http://example.com/2020/09/18/hello-world/</id>
-    <published>2020-09-18T12:52:07.643Z</published>
-    <updated>2020-09-18T12:52:07.643Z</updated>
+    <title>记六年</title>
+    <link href="http://example.com/2018/06/22/%E8%AE%B0%E5%85%AD%E5%B9%B4/"/>
+    <id>http://example.com/2018/06/22/%E8%AE%B0%E5%85%AD%E5%B9%B4/</id>
+    <published>2018-06-22T18:30:54.000Z</published>
+    <updated>2020-09-18T18:40:26.222Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>大约一年前，我写了《记小高考》这样一篇文章，而如今高中即将结束，我决定以这篇名为《记六年》的文章作为我中学六年的终点。</p><p>这一年的时间养成了偶尔写日记的习惯，拥有了一册写着回忆的绿皮本子，或许这篇文章能回忆起更多当时真切的感情吧。</p><hr><p>依稀记得六年前的自己，那时从小学养成的无忧无虑的张扬的性格被无数耀眼夺目的同学磨去了棱角，逐渐小心翼翼，于是寻找他人的光芒装点自己，盼望变成天鹅的样子。显然我失败了，如今的自己与天鹅相去甚远，但能终于有幸拥有深爱的事物，拥有自己的世界，自己的想法，拥有一点点不惧怕孤独的勇气。</p><p>与别人不同和曾无比惧怕的孤独我如今不认为是什么需要纠正的过错。这里的不同并非是好的方面。曾被妈妈说了孤僻，但往往独处时总在心中酝酿着宽容、理智、爱等等善良的情绪，而置于人多处却忙着厌恶别人和厌恶指责别人的自己。于是渐渐形成自己的想法，也渐渐拥有独立思考的能力，学会与孤独作伴。</p><p>之前几个月总在试图评判一件事的对与错，而最近终于知晓是徒劳的。于是我又将标准降低了一些，一切聆听圣母颂时能唤醒其对神圣的敬畏之心的人我都不愿当做坏人。至于底线以外的道德，我也只愿用其中认同的部分来约束自己而非他人。</p><hr><p>成长的代价是有时忘却生命的意义，每到此时总很想去非洲，在草原上看猎豹奔跑，而心总会跟着那美丽猫科动物的生命一起燃烧。或是跟随座头鲸从赤道到南极旅行，去俯瞰Mount Erebus，追逐冰原上的狂风。我不希望我的生命以一成不变的日常奔向最终的结束，那些生命的奇迹是我心中的光，而余下要做的只是等待她们的到来。</p><blockquote><p>“我的梦想是一片一望无际的海，那里萦绕身畔的是自由之风，我将从那里启航，向着世界尽头的彼岸。”</p></blockquote><p>那时身旁交织的泪，远处的呼唤和永不停息的涛声中我这样写到。</p><p>对海的执念不只从何时起。有印象的是年初下雪的冬天坐在二楼的摇椅上，看着持续了近一年的《风与木之诗》的最后一本，吉尔贝尔说想看海，之后死在雪地里。眼前过于巧合的大雪中我与漫画中的风之少年产生了共鸣，并当时萌生出极强烈的想坐游轮的想法。当然并没有实现，原定计划的时间去了菲律宾学潜水。是湖一样被环绕着的海面，夜空下的泰伊斯冥想曲中我与遥远的繁星和海风坠入爱河。接着那之后两天在万里晴空下听着泪团的Malina，正午一瞬转入黑夜，面前平静的海面掀起滔天巨浪。关于大海的一切给予我自由，海上响起的歌声是自由之歌，涛声和海风萦绕的梦变成了蓝色的自由之梦。<br>于是所有的努力有了理由，为自由而坚持，梦会给予我前行的力量。</p><p>到了启程的时候了，家的确是安全的港湾，但船生而为了远航。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;大约一年前，我写了《记小高考》这样一篇文章，而如今高中即将结束，我决定以这篇名为《记六年》的文章作为我中学六年的终点。&lt;/p&gt;
+&lt;p&gt;这一年的时间养成了偶尔写日记的习惯，拥有了一册写着回忆的绿皮本子，或许这篇文章能回忆起更多当时真切的感情吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;依稀记</summary>
       
     
     
     
+    
+    <category term="temps" scheme="http://example.com/tags/temps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记小高考</title>
+    <link href="http://example.com/2017/03/22/%E8%AE%B0%E5%B0%8F%E9%AB%98%E8%80%83/"/>
+    <id>http://example.com/2017/03/22/%E8%AE%B0%E5%B0%8F%E9%AB%98%E8%80%83/</id>
+    <published>2017-03-22T19:12:23.000Z</published>
+    <updated>2020-09-18T18:40:30.462Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>我们不走，就留在这，因为我们已经在这生了一个孩子。<br>我们还没有死人，只要没有死人埋在地下，你就不属于这个地方。</p></blockquote><p>看考点时早去了约一个半小时，于是去了附近的玄武湖吹冷风。</p><p>说起来前段时间本应举行的长跑正是我脚下走的这条路，但具体是什么时候我已经没什么概念了，正如小高考结束后没几天我写这篇文章是似乎考试也已是上辈子的事，伴随年龄增长我总在逐渐丧失对时间应有的正确认知。而这次在这样一个潮湿且并不十分舒适的下午重走这样一遍，也能姑且算作是补上了这高中生涯最后一次抱憾的不了了之的长跑。</p><p>这么说上一次真正意义上的大考还是中考，不过我已全无印象，只记得成绩比现在好上许多。无论嘴上如何说要重视过程而淡化结果，如此重要而又付出颇多的过程最后只缩合成了一个结果——即“考上高中”，甚至连分数是多少这样的经过也略去了，让人不禁联想几年甚至几个月后小高考的结果也不过会留下几个等级。结果背后究竟过程如何在那时也就不会有人在意，于是思考这样的付出究竟有何目的以及我脑海里流失的时间价值几何。</p><p>这里终于说到了开头那两句对白。最近抽空看了《百年孤独》，而这段话说是整本书我最喜欢的几句也不为过。因为它完美解答了我这时的疑惑和彷徨。所谓创造归属感的不是新生而是埋葬死亡。</p><p>思考这段话真理性时发现，能在我心中留下深刻印象的似乎自小至大都不是一种全然正面如同喜悦这样的情绪，而是负面的或混合负面与正面的复杂的情感，如悲伤、失望、懊悔……以致当我回忆过去时像幅心电图，平整的并不激烈的快乐中总有种种并不那么快乐的事实猛的刺了一下，用唤醒一个快遗忘的人的力度。</p><p>就像我此时关于小高考所想起的是某个黄昏放学的午后，思考着“是否可以就这样放弃努力”这种本不该疑惑的问题。但最终得出的答案是否定的，因为我需要不断埋下新的遗憾以维持记忆的心脏的跳动，而不努力不会有等待遗憾降临的机会，能等来的永远只有空虚。</p><p>我一直不擅长记忆，于是习惯于将重要到需要记住的事一次又一次重复。像我习惯于尝试在走过同一段路时还原与前一次完全相同的情景以求得同一心境那样，此时我走在玄武湖边，听着同一首歌，再一次想同样的问题时，思考这个问题本身所带来的愧疚的刻痕又加深了一次。</p><p>就这样一个又一个遗憾的刻痕构成了我对整段目前为止的高中生涯的全部眷恋。我知道高二为小高考而奋斗的时光永远不会也不可能被画上一个所谓“圆满的句号”，但它正因缺陷才变得无可替代。这段时间内的徘徊与孤独掺杂着十四点晒死生态瓶中鱼儿的太阳也无法清除的阴冷，可正是这一点点细小的、与成功的喜悦相比无比微不足道的情感将永留在命运的洪流中，挥之不去。</p><p>鸡鸣寺的樱花就快盛放，而早樱向来只开一个星期。我计划的一项拍摄任务因考试和学农以及连日阴雨或会因错过盛开时节而取消，但我从没因此而担心和焦虑。阴天不是理想的，我所等待的是个少云而清新的下午。刺目日光下漫天光影流连的情境早在我脑海中演绎了无数遍，这项任务的真正重要性不在于几张照片本身，而在于其带来的“这个时节一定要做这样一件事”的使命感。今年错过仍有明年，明年之后依然有后年，在如此年复一年的等待中对这项任务所抱有的期待和牵挂会逐渐酝酿，计划也因此被不断周全，终于将变成我最用心做的几件事之一，此景也将愈加美好。但矛盾的是尽管如此，我依然要在今年拍这么几张照片——明年的阴霾不会是同样的阴霾，明年的晴朗现在也不得而知。明年的拍摄技术将更加精进，明年的时间会更加充裕，明年会怀着对自然更深厚的敬意，但这一切无法否定今年存在的价值。2017这年的阴雨是值得留念的，因为我看见此景时的遐思早已在吃力地拖着连接过去的绳子蹒跚前行。</p><p>时间如果不消磨一件事的价值，相反的，就会培育它。死人和岁月的积淀使一块土地能真正“养一方人”，而说不上是什么——也许是掺杂着电灯的冷光的呼吸或是白纸上红黑字迹的交织亦或是脑中纠缠不清的念想的争斗——的积累使小高考成为高二时期最重要一项成就——而非那几个看上去意义重大的字母。</p><p>开头的对白其实没有结束，余下这样一句。</p><blockquote><p>如果非要我死了才能留下，那我就去死。</p></blockquote><p>能在万物生长的季节结束这段回忆是我的荣幸。为了留些什么在这段易逝的光阴中，我踩着脚下玄武湖边发冷的泥土，闭上三秒钟眼睛，于是一场风暴向未来呼啸而去，并在过去留下狂风暴雨。<br>记小高考，我十六岁这年所埋葬的时光。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;我们不走，就留在这，因为我们已经在这生了一个孩子。&lt;br&gt;我们还没有死人，只要没有死人埋在地下，你就不属于这个地方。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;看考点时早去了约一个半小时，于是去了附近的玄武湖吹冷风。&lt;/p&gt;
+&lt;p&gt;说起来前段时间本</summary>
+      
+    
+    
+    
+    
+    <category term="temps" scheme="http://example.com/tags/temps/"/>
     
   </entry>
   
