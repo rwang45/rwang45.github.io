@@ -3,11 +3,11 @@
   <title>n°45</title>
   
   <subtitle>All we are is dust in the wind.</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://www.n45.in/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2020-09-20T15:45:50.543Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://www.n45.in/"/>
+  <updated>2020-09-20T21:59:53.824Z</updated>
+  <id>http://www.n45.in/</id>
   
   <author>
     <name>n45</name>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2020.09.20</title>
+    <link href="http://www.n45.in/2020/09/20/2020-09-20/"/>
+    <id>http://www.n45.in/2020/09/20/2020-09-20/</id>
+    <published>2020-09-20T21:41:08.000Z</published>
+    <updated>2020-09-20T21:59:53.824Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Hey, password is required here.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="ec3ab84e1ee784420c84677ed668981efcde9594b054f47ff21625bf18876a12">c6c5cc42881f9897e79da5e22103b4113c7cfdb8f5799aad060af3c34f4528eeb411012e8ea011a429043f2d3f71fe30a3fedde59dafd44b748a7c4e21d2a8ed9add119132d9f6a023e8f1af2a5366340bbbee90750e18621f3fc7adc0827fe7787ea2300e3d73c7eb1bc70ed7e575f8656ac20645b1838cff077b68256445807fbd8c4a5ea69b3f577edc620594bfa2d9f9d4b9d3836bd8b2f9308f7ccbbeeadd42d8150bbe5d05db0189598da8099992fd2942dac3d53672e91fa4a1b6d90c86f86b803241cd98363e6f9f0825c7bded5988f2958178922784c3686d1dd70ba3a22c8c69e250d73fe420886fdf6853cfa37ab1d891b7fc970e35217fe20d5b3145817cbfee4879458c246216c57e9ef2f67a65e096481f3a9a8091a49b0e72</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">「La vie.」</summary>
+    
+    
+    
+    <category term="日记" scheme="http://www.n45.in/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="diary" scheme="http://www.n45.in/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>le monde</title>
-    <link href="http://example.com/2020/09/20/le-monde/"/>
-    <id>http://example.com/2020/09/20/le-monde/</id>
+    <link href="http://www.n45.in/2020/09/20/le-monde/"/>
+    <id>http://www.n45.in/2020/09/20/le-monde/</id>
     <published>2020-09-20T15:41:35.000Z</published>
-    <updated>2020-09-20T15:45:50.543Z</updated>
+    <updated>2020-09-20T21:39:01.388Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「世界。」</p><hr><p><a href="https://goo.gl/maps/9EjKPbiuGEA7MaYr7">去过的地方</a><br><a href="https://goo.gl/maps/YfBqqnnNYRDYHYv58">想去的地方</a></p>]]></content>
     
@@ -33,19 +54,21 @@
     
     
     
+    <category term="清单" scheme="http://www.n45.in/categories/%E6%B8%85%E5%8D%95/"/>
     
-    <category term="travel" scheme="http://example.com/tags/travel/"/>
+    
+    <category term="travel" scheme="http://www.n45.in/tags/travel/"/>
     
   </entry>
   
   <entry>
     <title>風と木の詩</title>
-    <link href="http://example.com/2020/09/19/%E9%A2%A8%E3%81%A8%E6%9C%A8%E3%81%AE%E8%A9%A9/"/>
-    <id>http://example.com/2020/09/19/%E9%A2%A8%E3%81%A8%E6%9C%A8%E3%81%AE%E8%A9%A9/</id>
+    <link href="http://www.n45.in/2020/09/19/%E9%A2%A8%E3%81%A8%E6%9C%A8%E3%81%AE%E8%A9%A9/"/>
+    <id>http://www.n45.in/2020/09/19/%E9%A2%A8%E3%81%A8%E6%9C%A8%E3%81%AE%E8%A9%A9/</id>
     <published>2020-09-19T14:22:48.000Z</published>
-    <updated>2020-09-20T12:58:43.281Z</updated>
+    <updated>2020-09-20T21:37:29.160Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「冬、夏。」</p><hr>    <div id="aplayer-MHByruTM" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="498286925" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><blockquote><p>風と木の詩が、聞こえるか。</p></blockquote><p>每到夏天，东南沿海总会刮台风。记得两年前那个夏天，我尚未离家，风起时正和妈妈从超市出来。风带着对未来的憧憬刮向远方，化作赞美的诗。之后每个温暖而安逸的午后，都会想起阿尔勒金色的太阳，和马赛波光粼粼的海面。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「冬、夏。」</p><hr>    <div id="aplayer-RKlMYZHh" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="498286925" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><blockquote><p>風と木の詩が、聞こえるか。</p></blockquote><p>每到夏天，东南沿海总会刮台风。记得两年前那个夏天，我尚未离家，风起时正和妈妈从超市出来。风带着对未来的憧憬刮向远方，化作赞美的诗。之后每个温暖而安逸的午后，都会想起阿尔勒金色的太阳，和马赛波光粼粼的海面。</p>]]></content>
     
     
       
@@ -55,19 +78,23 @@
     
     
     
+    <category term="感" scheme="http://www.n45.in/categories/%E6%84%9F/"/>
     
-    <category term="感" scheme="http://example.com/tags/%E6%84%9F/"/>
+    
+    <category term="temps" scheme="http://www.n45.in/tags/temps/"/>
+    
+    <category term="夏" scheme="http://www.n45.in/tags/%E5%A4%8F/"/>
     
   </entry>
   
   <entry>
     <title>BLUE N9</title>
-    <link href="http://example.com/2020/09/19/BLUE-N9/"/>
-    <id>http://example.com/2020/09/19/BLUE-N9/</id>
+    <link href="http://www.n45.in/2020/09/19/BLUE-N9/"/>
+    <id>http://www.n45.in/2020/09/19/BLUE-N9/</id>
     <published>2020-09-18T22:50:46.000Z</published>
-    <updated>2020-09-20T15:11:31.894Z</updated>
+    <updated>2020-09-20T21:38:12.638Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「Nothing lasts forever, but the blue sky and those stars.」</p><hr><blockquote><p>There’s something about blue.</p></blockquote><p align="right">Blue - 山根麻以 from Cowboy Bebop</p>    <div id="aplayer-KcxqSKGM" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="22767375" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><hr><p>这个夏天去印了套明信片，集合了八张这两年来到处旅行时拍的照片，命名为BLUE N9 。<br><u><strong>330gsm 棉彩纸 90×160mm</strong></u><br><img src="/images/post-b.png" alt="概览"></p><hr><h3 id="VILLEURBANNE"><a href="#VILLEURBANNE" class="headerlink" title="VILLEURBANNE"></a>VILLEURBANNE</h3><p><img src="/images/8.png" alt="2019.2.18 Résidence A, Villeurbanne, France"><br>维勒班成了第二个家，但和所有人一样，我从来没喜欢过这个地方。它像个笼子，把自由关在了外面。</p><p>逃生通道的走廊可能是整个AB栋中风景最好的地方。<br>公墓静静伫立着，里面埋着二战最后一年死去的士兵。电车站来往的行人各有各的故事，而在顶上听The Voice - Celtic Woman的我第一次了解了我室友这个人。<br>日落时分整个天空一片金黄，落日余晖洒在对面教学楼玻璃上，远处的山顶熠熠生辉。入夜，电车轨道两侧的路灯逐渐亮起，里昂城灯火通明，而后月升。</p><hr><h3 id="DONGJI"><a href="#DONGJI" class="headerlink" title="DONGJI"></a>DONGJI</h3><p><img src="/images/7.png" alt="2020.6.24 东福山岛, 中国"><br>在东极被蚊子咬了四十多个包，除此之外一切都很美好。<br>早已习惯一个人旅行，但当听见身后海鲜摊喝啤酒的年轻人的歌声划破渔村的寂静，不免有种与身边灯塔相似的心境。去年同样是这个时候，Bretagne某处海滩，与今夜一样看见了蓝眼泪，朋友却在身边。</p><p>东极往东即是日本，大西洋深处的光则是对岸的自由女神像。</p><hr><h3 id="HELSINKI"><a href="#HELSINKI" class="headerlink" title="HELSINKI"></a>HELSINKI</h3><p><img src="/images/6.png" alt="2019.12.27 Museum of Contemporary Art Kiasma, Helsinki, Finland"><br>下午三点的日落，圣诞夜哥本哈根的五罐冰激凌，赫尔辛基火车站的流浪汉，罗瓦涅米错过的极光。<br>Scandinavian pain.</p><hr><h3 id="SANTORINI"><a href="#SANTORINI" class="headerlink" title="SANTORINI"></a>SANTORINI</h3><p><img src="/images/5.png" alt="2019.4.22 Oia, Santorini, Greece"><br>从雅典到圣托里尼要坐十几小时的船。日落后不久船正好驶离某个岛，港口正上方升起一轮巨大的月亮，在被港口环绕的海面上投下一片金光。上方环山公路的路灯浮在群山的阴影上，车灯消失在驶向月亮的途中。</p><p>爱琴海的深蓝孕育了古希腊文明，和很多猫。圣托里尼有黑、白、红三种颜色的沙滩，但最有名的是每年旅游季都需要重刷的蓝顶白墙。人们远渡重洋寻找失落的仙境，却在人间流连忘返。<br>比起圣托里尼我更爱Milos，有15欧两人都吃不完的饭，翻山越岭喝到的免费鸡尾酒，洁白的沙滩和淳朴的村民。</p><hr><h3 id="LES-SABLES-D’OLONNE"><a href="#LES-SABLES-D’OLONNE" class="headerlink" title="LES SABLES D’OLONNE"></a>LES SABLES D’OLONNE</h3><p><img src="/images/4.png" alt="2019.7.28 Plage de la Paracou, Les Sables d&#39;Olonne, France"></p><p>朝西的海岸可以看见太阳落下地平线。</p><hr><h3 id="NAN’AO-ISLAND"><a href="#NAN’AO-ISLAND" class="headerlink" title="NAN’AO ISLAND"></a>NAN’AO ISLAND</h3><p><img src="/images/3.png" alt="2018.4.4 南澳岛, 中国"><br>十八岁前的最后一次日落似乎也没什么特别的。<br>太阳再次升起时，没有金色的光，没有朝霞，没有红日跳出海平面宣誓这一天开始的那一刻。它躲在云雾之后，天就那么一点点亮了起来。</p><hr><h3 id="MINYA-KONKA"><a href="#MINYA-KONKA" class="headerlink" title="MINYA KONKA"></a>MINYA KONKA</h3><p><img src="/images/2.png"><br><img src="/images/1.png" alt="2020.5.2 贡嘎雪山, 中国"><br>La déesse blanche.</p><hr><p><strong>BLUE</strong><br>noun</p><ol><li>the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nanometers.</li><li>sadness</li></ol><p>蓝色是我最爱的颜色，也是忧郁和乡愁 (nostalgie) 。<br>仅以这套只有八张的BLUE N9，记录那些失去的时光。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「Nothing lasts forever, but the blue sky and those stars.」</p><hr><blockquote><p>There’s something about blue.</p></blockquote><p align="right">Blue - 山根麻以 from Cowboy Bebop</p>    <div id="aplayer-BeQsvNzv" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="22767375" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><hr><p>这个夏天去印了套明信片，集合了八张这两年来到处旅行时拍的照片，命名为BLUE N9 。<br><u><strong>330gsm 棉彩纸 90×160mm</strong></u><br><img src="/images/post-b.png" alt="概览"></p><hr><h3 id="VILLEURBANNE"><a href="#VILLEURBANNE" class="headerlink" title="VILLEURBANNE"></a>VILLEURBANNE</h3><p><img src="/images/8.png" alt="2019.2.18 Résidence A, Villeurbanne, France"><br>维勒班成了第二个家，但和所有人一样，我从来没喜欢过这个地方。它像个笼子，把自由关在了外面。</p><p>逃生通道的走廊可能是整个AB栋中风景最好的地方。<br>公墓静静伫立着，里面埋着二战最后一年死去的士兵。电车站来往的行人各有各的故事，而在顶上听The Voice - Celtic Woman的我第一次了解了我室友这个人。<br>日落时分整个天空一片金黄，落日余晖洒在对面教学楼玻璃上，远处的山顶熠熠生辉。入夜，电车轨道两侧的路灯逐渐亮起，里昂城灯火通明，而后月升。</p><hr><h3 id="DONGJI"><a href="#DONGJI" class="headerlink" title="DONGJI"></a>DONGJI</h3><p><img src="/images/7.png" alt="2020.6.24 东福山岛, 中国"><br>在东极被蚊子咬了四十多个包，除此之外一切都很美好。<br>早已习惯一个人旅行，但当听见身后海鲜摊喝啤酒的年轻人的歌声划破渔村的寂静，不免有种与身边灯塔相似的心境。去年同样是这个时候，Bretagne某处海滩，与今夜一样看见了蓝眼泪，朋友却在身边。</p><p>东极往东即是日本，大西洋深处的光则是对岸的自由女神像。</p><hr><h3 id="HELSINKI"><a href="#HELSINKI" class="headerlink" title="HELSINKI"></a>HELSINKI</h3><p><img src="/images/6.png" alt="2019.12.27 Museum of Contemporary Art Kiasma, Helsinki, Finland"><br>下午三点的日落，圣诞夜哥本哈根的五罐冰激凌，赫尔辛基火车站的流浪汉，罗瓦涅米错过的极光。<br>Scandinavian pain.</p><hr><h3 id="SANTORINI"><a href="#SANTORINI" class="headerlink" title="SANTORINI"></a>SANTORINI</h3><p><img src="/images/5.png" alt="2019.4.22 Oia, Santorini, Greece"><br>从雅典到圣托里尼要坐十几小时的船。日落后不久船正好驶离某个岛，港口正上方升起一轮巨大的月亮，在被港口环绕的海面上投下一片金光。上方环山公路的路灯浮在群山的阴影上，车灯消失在驶向月亮的途中。</p><p>爱琴海的深蓝孕育了古希腊文明，和很多猫。圣托里尼有黑、白、红三种颜色的沙滩，但最有名的是每年旅游季都需要重刷的蓝顶白墙。人们远渡重洋寻找失落的仙境，却在人间流连忘返。<br>比起圣托里尼我更爱Milos，有15欧两人都吃不完的饭，翻山越岭喝到的免费鸡尾酒，洁白的沙滩和淳朴的村民。</p><hr><h3 id="LES-SABLES-D’OLONNE"><a href="#LES-SABLES-D’OLONNE" class="headerlink" title="LES SABLES D’OLONNE"></a>LES SABLES D’OLONNE</h3><p><img src="/images/4.png" alt="2019.7.28 Plage de la Paracou, Les Sables d&#39;Olonne, France"></p><p>朝西的海岸可以看见太阳落下地平线。</p><hr><h3 id="NAN’AO-ISLAND"><a href="#NAN’AO-ISLAND" class="headerlink" title="NAN’AO ISLAND"></a>NAN’AO ISLAND</h3><p><img src="/images/3.png" alt="2018.4.4 南澳岛, 中国"><br>十八岁前的最后一次日落似乎也没什么特别的。<br>太阳再次升起时，没有金色的光，没有朝霞，没有红日跳出海平面宣誓这一天开始的那一刻。它躲在云雾之后，天就那么一点点亮了起来。</p><hr><h3 id="MINYA-KONKA"><a href="#MINYA-KONKA" class="headerlink" title="MINYA KONKA"></a>MINYA KONKA</h3><p><img src="/images/2.png"><br><img src="/images/1.png" alt="2020.5.2 贡嘎雪山, 中国"><br>La déesse blanche.</p><hr><p><strong>BLUE</strong><br>noun</p><ol><li>the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nanometers.</li><li>sadness</li></ol><p>蓝色是我最爱的颜色，也是忧郁和乡愁 (nostalgie) 。<br>仅以这套只有八张的BLUE N9，记录那些失去的时光。</p>]]></content>
     
     
       
@@ -77,17 +104,42 @@
     
     
     
+    <category term="mío" scheme="http://www.n45.in/categories/mio/"/>
     
-    <category term="mío" scheme="http://example.com/tags/mio/"/>
+    
+    <category term="postcard" scheme="http://www.n45.in/tags/postcard/"/>
+    
+    <category term="travel" scheme="http://www.n45.in/tags/travel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020.7.20</title>
+    <link href="http://www.n45.in/2020/07/20/2020-7-20/"/>
+    <id>http://www.n45.in/2020/07/20/2020-7-20/</id>
+    <published>2020-07-20T20:42:11.000Z</published>
+    <updated>2020-09-20T21:38:17.724Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Hey, password is required here.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="066e667d202c69164965f0a7167999fd1209a97473cf2d4db979f44529d63b2a">c6c5cc42881f9897e79da5e22103b4113c7cfdb8f5799aad060af3c34f4528eeb411012e8ea011a429043f2d3f71fe30a3fedde59dafd44b748a7c4e21d2a8ed9add119132d9f6a023e8f1af2a5366340bbbee90750e18621f3fc7adc0827fe7787ea2300e3d73c7eb1bc70ed7e575f8656ac20645b1838cff077b68256445807fbd8c4a5ea69b3f577edc620594bfa2d9f9d4b9d3836bd8b2f9308f7ccbbeeadd42d8150bbe5d05db0189598da8099992fd2942dac3d53672e91fa4a1b6d90c86f86b803241cd98363e6f9f0825c7bded5988f2958178922784c3686d1dd70ba3a22c8c69e250d73fe420886fdf6853cfa37ab1d891b7fc970e35217fe20d5b3145817cbfee4879458c246216c57e9e624a32c19e53dd00380517853deb670301e2f96939fff703d488d3a2e52f97e2a4301f09492eafe1ed9f48574ddc89f7a2120d9293c8fc9f2cdbbc5b07a16f126500392bba6f1c8213ba4bf520207a9e9aebd58e2121ac2185495ccae25ad5d7cb146b4055aa9ca0ef571036fb1f8b53970fa4943565593c1575ae412dbd9cb138ac73136cc13b10e3e2bf5f2ab33e19faad878e9281a73f30ff7ea7c155aceb509a18ed560fb12c603c2f5857bd30dc9a880bbb02926f55fc56184ae52da86a2a66a3895bcf304e63449d86958bacbb9de82ec86168a6f75494c914a2c8547e9b19dd47909bb3a272d89f156372f326559738d7480b82faa7ddc6fdfae3596fed33c0b58ee1ff8de52dcd3b0d357f69eb0e9ec82c0a303b0e6145137daa7deadf225b1deca6b1bcd479abfac666c179060ea0b62c7fbc0d48c8a6070cc44d1bbfe75598899626bee15ccc786539f07762deb081498dacf0cf1911c62525b563f7c8c710121f416493b476707b49aa86be746c1b716e0ca81bdeb911921d2646ae5db3cb81a2ebd45e3202905253af319b22b3a68a4e07b9afb4e0b55a5a3b6d0c50a2a6e39ad0cac2ac4b4aee25195c2b993a23280356be2d72d6d3cee010ee16ff5cafcdd77c90af352344c935edccdf323848721ece38f93340875abde52dbcae23b231dfba09345d646ebbbaea1164557c9ca0ef4d55f49649f9474f3a711a04f8f21d631e6233ddf627c371646561cae920887446e946976bb1f60b750c7854b564d7d56dc287ee64df2af8a3525d8a9185d734f8e602369ca51cb3e58fd83cd5d248629c49250e5fd141f5af27ed7b6de5f1dc8d1af8944305389b106fa405f8d4e1fdc42a981995d74641f8f5b1098f562b478c40eabbcf9d8997b05dce82ba26310feeb5e414846b94de3fd376d47f6159103b74cccb7cce4dbea901bfacff9291f139859f86fe71c641615d98d424eb917eeda8d012b408a9589b440efa59adeb9f434ebb8692eac1ff93b100b07db03ab92d478ce9e0627c84a6fe0699cbf0bc73a76f433ee6b77d8fab9a91ea46b96d07636dceb45b26ac8460ec148dea9253782ee2c51263bf976033fa2ccde01aa59be05bfe0534c6b7262e8933720d93854e9596c2174b3b5e32f9c20a017a925ecb3edd4172cfccac21ea3656995da01452e68e150a5afec88354dcadac6c4cc4969606274347db180b9a794eb010e19b3bab5b3ff996e359d5d672741fb41aa14ee7679c582c8a94d3c97a70b7d98b8c8eae0ecf2ef7b2f05e8c5b52fe9d8004a0866764791c7d7f30cbd778f9549b26c66eab53dba28d0acfcfaf900ff5aa18416314d566ff85fe1db57b15de57469b6f9cd4eff50fa1eb64d21a8bb1cbf635843cddbb5274ebc6e5940b077a6e8bd0e794ed3bbbe10f4c9b0dd77acdabfdc72ed2b728ccce86e13cd0121b71103f384bb2334cebbc42520dbede25134fd31c452b27fb5a6dcef6390fc143c4cbaefd762840297f20f6187e19db5aaf95feef7d9ea0927b540af749fb0f62bb1410738e46f63bc4c71f47367317a6e9343e14fc8c35d47c44b55e351940acef14ea970bcfd578498db8916ac43306b68b11ab8fa4acde259cf8a326738c903ebab6fb9b909609fd5d7fc6ae4ec317d650209a5bf9f0d6a962c012b4618ebe6abf7ea1c998ec4dbee2267f42bfde6e0ddd517d16b9205c981bca0eb72d1d1d44d959b969d053907808ae9b3d8ab5dee74efbfbedc7d19703934580a8a0534f399788fdbdd681cc9c94404f63a37a23cc9a185cc4d314ff2cf0609d1e4c7cc87062fb74f0ed46d7f29318aa1d8d4de0546fe97fca847163e669a08e9288dd5c8b8ca8877346c576716552978fbea3719a6e3bf12f720a5b3d7f95a295c62fcc409e1eca9e07fe4defd4b25ce5b25fabb8127843a16fe137ac77c7ae0c9573c5af4c6c349df5a952961756565b25821345ae945cd390305eaf44b529ba150e3f4e368faa463b8448a539a517926baece2e9dfe791f280b1a75b41ab5c718a2d37465744815e22bdeabb4d5e5e12b0f888c66bddd2540f109c07c7669a043a73c30a4beeb90ad131997edc5dd8f9d80f18818a564a332aad2093d881eeb924bd2228718d2cd96e5a03c7bcc8c315fff94e55e8182dfbd5e3e0f3afee61a05085012aa8413d4b0b3710c8bca4eee8f4f7a4c339824a0c330d6db5bf7843073fc469422c7fb23595f69f3e942f41bb6b948859c8d3021842fe0936d1cc150c86a6dadb1493a632ebc85eb832f3848fce83c387b15230ee8095e59218c19475e5cb25b48f97b8fbaf6d5bccdf67cb023b21c9595c1df43b57d80780cc4dfed6b91685fc909da18fd4a1c9dbe7fd6ecc601544c07e2c80c496bea36ff438a898c4e2f4a2ecc177b3721bfe7b3b7caaeeddf66d678b98159da870dab1bd59afe8480</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">「La vie.」</summary>
+    
+    
+    
+    <category term="日记" scheme="http://www.n45.in/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="diary" scheme="http://www.n45.in/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>无意义㈠</title>
-    <link href="http://example.com/2019/09/02/%E6%97%A0%E6%84%8F%E4%B9%89%E3%88%A0/"/>
-    <id>http://example.com/2019/09/02/%E6%97%A0%E6%84%8F%E4%B9%89%E3%88%A0/</id>
+    <link href="http://www.n45.in/2019/09/02/%E6%97%A0%E6%84%8F%E4%B9%89%E3%88%A0/"/>
+    <id>http://www.n45.in/2019/09/02/%E6%97%A0%E6%84%8F%E4%B9%89%E3%88%A0/</id>
     <published>2019-09-02T16:12:31.000Z</published>
-    <updated>2020-09-20T16:48:19.107Z</updated>
+    <updated>2020-09-20T21:35:46.199Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「Just some random thoughts.」</p><hr><ul><li><p>想想我几乎从没有详细地规划过未来，该从事什么工作，要在哪里生活，脑海里会有一闪而过的念头，但我从没带有实际意义地思考过。<br>对我来说仅仅在“现在”这一时刻能把思绪带回现实就是一件需要下决心才能做到的事，而提起“未来”在考虑去向之前思绪早已飘往现实无法触及的远方。<br>想做个很长的梦，长到梦与现实交织，再也不用分辨两者。</p></li><li><p>在去往雅典的飞机上，舷窗外有薄薄一层云，像海中翻滚的浪花，但静止不动。仿佛看见船乘风破浪，驶向云海深处。</p></li><li><p>看了最后一只白鳍豚淇淇的故事。<br>他被囚禁了一辈子，最终也没能拯救白鳍豚这个种族。</p></li><li><p>批判性的意识和共情能力的缺乏在我身上体现的淋漓尽致，幸好有理智加以约束。</p></li><li><p>现有的对自己的不满，比如与人交往、幽默感等等都不是真正的问题，最大的问题是过于纠结我不具备的能力，其实不行就是不行，没必要自责。</p></li><li><p>长大就是有伤心事也不会说出来了，毕竟想法不同时同一种语言也变得不相通。<br>“明明好好的一个小孩，怎么长大变成这样了。”<br>我难过的无以言表，在经历了自以为艰难的心理改变的历程和只有忍受孤独才能带来的思考，我自以为就快从小孩的壳里挣脱出来，但这一切或许只是退步。<br>从小时候到现在性格的改变需要一路不断挣扎。甚至审美提高的过程，也要不断否定过去的自己，而这不是一件容易的事。</p></li></ul>]]></content>
     
@@ -99,38 +151,42 @@
     
     
     
+    <category term="nonsense" scheme="http://www.n45.in/categories/nonsense/"/>
     
-    <category term="nonsense" scheme="http://example.com/tags/nonsense/"/>
+    
+    <category term="temps" scheme="http://www.n45.in/tags/temps/"/>
     
   </entry>
   
   <entry>
     <title>2019.7.4</title>
-    <link href="http://example.com/2019/07/04/2019-7-4/"/>
-    <id>http://example.com/2019/07/04/2019-7-4/</id>
+    <link href="http://www.n45.in/2019/07/04/2019-7-4/"/>
+    <id>http://www.n45.in/2019/07/04/2019-7-4/</id>
     <published>2019-07-04T16:38:12.000Z</published>
-    <updated>2020-09-20T18:18:40.611Z</updated>
+    <updated>2020-09-20T21:32:09.717Z</updated>
     
-    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Hey, password is required here.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="aa5c0bd28ec0694626f580f31b109314565eee1b4a7fda1c1f3c83694f777616">c6c5cc42881f9897e79da5e22103b4113c7cfdb8f5799aad060af3c34f4528eeb411012e8ea011a429043f2d3f71fe30a3fedde59dafd44b748a7c4e21d2a8ed9add119132d9f6a023e8f1af2a5366340bbbee90750e18621f3fc7adc0827fe7787ea2300e3d73c7eb1bc70ed7e575f8656ac20645b1838cff077b68256445807fbd8c4a5ea69b3f577edc620594bfa2d9f9d4b9d3836bd8b2f9308f7ccbbeeadd42d8150bbe5d05db0189598da8099992fd2942dac3d53672e91fa4a1b6d90c86f86b803241cd98363e6f9f0825c7bded5988f2958178922784c3686d1dd70ba3a22c8c69e250d73fe420886fdf6853cfa37ab1d891b7fc970e35217fe20d5b3145817cbfee4879458c246216c57e9e1939d2034643b72800e6c359e0f9a52ab50db02b83b22c6e7e9fed1214fc8ddf1b3893df9ec9452717b7295d29af0e7540e18666854a6b63b34667b08653cdd6c10f4beedf38cc9d52f9f3120f45a2836dcbc6eb23eaa15837007bd273f2b7ae4f602cfc9579be025cf02a1698e047fa62a69b4600521314357791f5769aac326e69259307adf67d51aa9b7c929fc8b578e9fccb7bfebdffb2332d9771d2b959c5364cce41e393a5fbad4462223fc862ead6cd14ed49c0dd1d3aac9fe86adb875027469e82c1da77b4014ed66e11b4be5a76c81c92701a3cc5477eb810a54407524bf33ded66e47d6d0044ffb46b4336ade00d8c08d1d0cc8d68ab04cb59f3360efdc8791da7021353cfa6d0b38e6dfcd5404a86bcccfc2ada7bb297a81b8e3c7473316d4aae962884785416e89dfed97cf1f1701a7b8ffb7f02f6bf34e7946060352884f08579432e51f335146bd8dd6f14dca540e8a994edbeaccc4dc8c4e812d2b848e8a3e436830ab2cbb3ccabd770664ca6452e1eee45d3621b7e5cf33492402f910b1df9e9a86710b035824f28de6e203e5efe66113178bb9d3bdd1b45a54e85d8c27986ba6ef91fde2add20b0451a7d8a595e4e6459490636620355472d66914c8dc355b8a7bfaf68bbe1e1f7af362ad28412c21032cf9632df3fe91f27cc62d4fe0b65345dcf8513aa08d7e259e28293e3b5414e79d472a0d81a0c797aa52db87fdd509e86831910adbf558242e09f1cd564b96b71418ac8957bce38c461bb7a68e119f6e09c68edadee33e3cec2ea5f896386e034d55274d77cdc099bb488221a20b7ac3f5ab613a5aca51186e2b454223197c3e5a7fa267510558b3c37497c009f92c3ad2c6da792a9943c8c6eddd4a4115569327e1123d42893d853f407bb40bd7a0408f404308b2821b5cd82ba81875637e5c175e0de5b322783ef673381593f588a2e9bdc868df7692fe7dda238f6f411aba8b3ea9d1bb3e46edc555f48b3df45b5c59f2786bdb369c67cc6ba743f1405e9b5cf632797d41f266ab4cc21da37c1dea327fa53cea1adc42abe3a2260cd129cf2cb3e480f9870a7b33f67a5f9166c26ea6d58d551ea08e9b377d8e83ccfafb941b9dededc1dc82dc6faa70af7a6090e0221e0cad459a1559bfd287a8cb2724eca7b9faaa723345e018d18fe6d90aaab9f6fa1279be2f934eaa49fbecdc343b1a35c07715545c199c9f9fa7277373d043b1af63b03dd6e7697206ad64ebaa89505467a874e00ed616a7e9d2630b867f9c9bbfe3ea295874ed2346a846511017243a69323f42546c22d35680ada480e8ea46bc0bba14b5fe0705ad7bfeec4251db6e2c3167324b45eed7e8a4fb75e5525d8e488a4d0d27436b44c5a69a72a9cd90df91c4f6cdd74b60d5abf3fc1a28f32cdbf17484380e7dc39d5c405cd6b28691c63c259978a9ef8b142728ab7098ec81e06454928c9fdbcfb5cdd4ae149593282249a873372c0cecdc66cd319d5ff15642522340e37f84420a658c6a43dd7faf0f22e0a638adc86b966dca82f32817171a3a4f1d5649e904805f10ecb4102d2ba3a90434c22ee696714a7bcc3fddfad917669bf59ed5f55d1929f4b42f6f2fa3965a8bf66323e5dbcec3e376a1b8a3bd273c37ed97b53bd82b772223b6f60c7022165e8c5e0b9970d5f933bf1deefc14ba7738a8a1e3ab5d090b16616084bde2b57860e8ab21966a5b9ad97fcef7c878bdc7c833198bc30f651cbc9d3307cd2e1d5d3ea84e116389c7e4169e7534bf549f31d3342bbbfa93e3cbac3520ad07a34cbf7ae352d8f0ae55ba634aa717c5b76863dda45f6805258ebe902e538c693e970910bfa805fec6880ee666c292b925a76c73f0688c62f6b96f46a0834ec06a63cb7d353a3d1ae42e77cf48785c1740249668cede59c6097496b94814c7e4c739d85781bdc86cd85a6270cbc99b02140b2c52ab910f7e48ce805ac32e1d0393d6b0a5095dd7018bfb832747ede71f6139648a2b620d062a63efc13dde588f56f61ab505b7fe1cffc76ec84303e0069be446f762b8b97e86c63abf5de6913eabebecb91aea7f8d97d0f581040d0fcdeb42025b9cfdaf404250eb75b6e7a222061d8f18fc02a377daeae3fb7a6b00a3f24f33ed806cad98304555f344758c7d3c1d909b2e38184c583c9a570e133c1231fc7f0049237822d4b16a26c1d4fbbd1ceb6e0bd3ecb6d12590e0ee9ef0e99dc1b126dd09da330d0128304a74495ed9d23c7c8bb145d0d9f955ac4cb67465e1cd2dd9689139cc27b2f9070dedd9a8118808230a7f9245fc488b04b381d2510b9280c593d7c715faf13b73923bccad7585dffaf7eb823803bdc0c1e64b87b7d99380c14c42192b804c6497282299559c4155db6ef37f96894c63b6a3e83e1c13aa5b348635e1aa5a7fa1b2903c69a5c3a52f3dafba0e06ad92a96fcbde28d3b2a75d8e0516b5e3ee23edaac3f74378549495dce7a57c757a373da89c8e0352654b472f6e3ba2313b9209b360ea806a1b4801665cec4c914088abe652498e6fdf540f1791cc1113357eb870e2f74d070d46452b3684ad81492620c6e1fdd2e58435a5e5a6601b7f7ab2eed9e94478d07dc3a77cb0215807793c265731ec072343ad7858bb962818931937d7a52c38b506ba1628c5a84d02e11c955b94f82d418357b36811e0bf378de29b004ba9636d9b0d76b305fbfb5ebc9f6de1c912d5bdc08955d23fa916508125f09b0bfb42301c0c10052e073277fc7ba833ccae363706d38df6cc5f854192f65f2d19483ae4374baa2f7a54ca01049740e9bd209690707b13e1b28aa24c91096d3dca73a3b8f19258dca2dd8bc1a53f6bdfc6fa9cf1d50de81de83d21913b8c892918a5e5d118dc33555ef77b49c0edf61da29661af8e05caa1b1fa193f87c23abadcdb032566f81455108c4648a5bbcb12b1c746d23840bb1340314184609128557243dd90697176f3e6645a7d850383b5e1223256079714e0a585592e94b7511a08915dfcf18e275c789722053a969607c806ebb1ce06017faaaa50f86a147db3fcd9a6dba3a4ac6fd5f8804aaf4f7ff2f40280f2b16500754b38bb941dc9a641f2634039646dad238341a8a7f38a033ddc4b75110777c539a4645864887b4037a095dcd250cad150e48e0991a58b0257585877d9674b4f25d9798ac6fd9dd4325188833c2b488048c2f4a09e12643f91d420803a3d752cdbd5cbaea145dfbadb368d3fe9f924526a532d91ab49e08675e188a2d60476fc5440968b97d4ff57dda472742dd482ed6365053afe0ae6fffc399c4c0649c135cc22834d9ca01707e123037e79a21f763f10322a5153e47cf3706dd957c15b3cf9b9ff55b94dec820a3fefb84e553af5247f0c2ed41d588f1f5f3053682133d4d26f0f0806852e83b731c8a34bc6f8ec270423ef113e7b117725dda574477881c95e6d1b3ddec925e5ffcf4ed095375ef9e3e15f2d93a2e0e9a9009c9193c2499bfb4c57bb399fdd256d784a6c8af80339a842c025ccaeb3ac913c4604cbd34b2f9535edff21fe5867167d31a4a0d1cb18faca5835961f0f820b49b04880df6014facc342c1eb54c561bde3d84954830f8efa4216e836995476e9343170cd05770ded5b82c1c150a7967cb9b6bfda24b5f209992ad6abd5c2d074c5a8efcdbfd901674844459cb6aa73b6ac8350ad9dfb7ce9279fa9ef7cf6d46ff198fce33560d58e66b623db0711b826658f6936ebb320a7eba99e7176e9666eda2132cc9a355c9298514722f052b794c2dbaf531b6d9e1888fcf6a8f4a183db0f81a1679a72fa1f938b08dc1334b7d91fd8ae6659dc2c0ac8c8b1cdb9cb36fce8a4954dd03946484f83b838af2c156bb5da3a59bc235b3296c5cba0cac0b718f0657b9d47598a18de1a663682a5efdb47295e72dd43dabc3d8c68bcf285feb58c1d72e5c26a2a0a2acf94b3c94f8ae7a709e94dd4b34ded1a91d4ea6d9c2cd4b92a4ddec48083d1030c2c64b8f9923e25450186558d897ab3b1e71449689896dec331176832cc993cea7dce13158cc03d64cfb706a76221482d56942de5802e4e79c5e26a929b53d5e8b5f1faec5d898f3ee8448774885c0abf219825e84044cdc7c66b944f58277d2054d23e1e05bbb9ba698e4db40c766d767e20a505481f4b1604260b38a87b09183d892246768a5a6814e8868751e8ce5b2ac03e27d758c5c5bda39d184ecf9d0013a3092b79ed8e6edc4b1c7e5984e65d4bd355b2f52177f70f53d2f5261b9319961fe58341a1c3a1465a8565356dd0b90edf8d7cb16336b9597936201eb628819ad54f45f9216b2e3907cb6876851de794aa61da62606987275ee28afc44325d81ab825706e1f6fd23898fc7ff7e4636064297834d5f7e3f457a60cb99e5845dcc3a5ca56f221e258742399bf1e37778533023802858e4f100b2837e91dc97cf72a084afadc22bcc92f74273515e20236572ebe3087d206f07b2266986452438e643cfa5635eebcd63514d4a013aebcbb89950f660d1cc39d318553605baa3216234194007a68b27d1461c653bcb3d275fccd2f70a095fdf281591762f738103d507f2bd9a62f1378ed2e82fb57b49b76df088485d9d8ef3d2b2634c7018a36dab90e09fed5fce11ac0dea6658d4b4525105a9659c48fbb10590eaf077530bf2e0da9d2f770fa81edbb478f611a0b0e6751a2746b6e7994a42e06d5a62e55f36605a2190696f0dd05998516f2ced3d76242edf70ce6f8b1c73120985629c201158120335387f2ecfc7c87e90eb00533134c23ab46ae1ff10fdbd50089fde59f2dda737b0a1c40546314aa4a7125af27ab5e59a7db0028621c94282c6b6f32f75c671cb8df2c352ae54b699837d439f9d1aeee2576be2e666fa9ec9ae59d61aab71ea795dd88b515863cf7de477a033b855e039232cdfc03fcbdbf65afd5bc32aec475220e9f95e6791016de7ad47ddabe6bae3ea1fb851e279631ee2eb053ac010e949c2e47d32abbf1cf802803f5bbe47ef80665d9ef1588586bff18a05020b2ed5210cd66f95d0176485e7e025f2c04e7b2b7168bb560786692c59644d09397e29eb37c6af2149eab0cf435796723f17ed36a1c1fd24b84b5b46184e78ae40fb43d9545108b8d1c0c86eee0af3859bd266be134b390e964e071b601061e022ba61a60df12a219605d6423a7b11d41e19f59524f4b15895b64edde1c453a15cafba924a0d9f9562ce5f27062283789319cc75244071b8179c86778d2ac20d3dcc47f618442224ad27b6eab22940e50b6fab2ca23f0f305039c771406d5ad47df27dda6adcd435c0d57d7a16589e0c5764d2a0c6f0fb4b391a2c679a577614f72a3a64cdc5db98cafbbbc3db21e0a04844ec</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Hey, password is required here.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="55f7b72cd33de45f81a36780a6ce012cbc0677c8c88856ee87d17e27bb634a9b">c6c5cc42881f9897e79da5e22103b4113c7cfdb8f5799aad060af3c34f4528eeb411012e8ea011a429043f2d3f71fe30a3fedde59dafd44b748a7c4e21d2a8ed9add119132d9f6a023e8f1af2a5366340bbbee90750e18621f3fc7adc0827fe7787ea2300e3d73c7eb1bc70ed7e575f8656ac20645b1838cff077b68256445807fbd8c4a5ea69b3f577edc620594bfa2d9f9d4b9d3836bd8b2f9308f7ccbbeeadd42d8150bbe5d05db0189598da8099992fd2942dac3d53672e91fa4a1b6d90c86f86b803241cd98363e6f9f0825c7bded5988f2958178922784c3686d1dd70ba3a22c8c69e250d73fe420886fdf6853cfa37ab1d891b7fc970e35217fe20d5b3145817cbfee4879458c246216c57e9e1939d2034643b72800e6c359e0f9a52ab50db02b83b22c6e7e9fed1214fc8ddf1b3893df9ec9452717b7295d29af0e7540e18666854a6b63b34667b08653cdd60266c6eff7fe66947b8882669497dd8f85491f8650fc000344409602de3f07007c6d99581ff012625d80f6e78cbc4ae03842ed7a49caff9392d56999057d2b8ed5866c23672623bbe5524d9f4dd90c3f2cba69021415138424ceab327d0aac83cd7bdd12df37c036b52d758a8e93c2dfb588b8a25ac05881a69a46b12d1192cf6f76863bd4904ebae18954f2fc3330f2c028378b0b95b1bbca5df4411429f29fb47ac6050c53caefad5a6e2cb958abc98161cf7e34efc6a479afc49131aaec162208b71d17d757072d8dab3201f6f8e5ae32fbe6878c15d9a5acc37dd883f907503d24474e18d3b84884271cf8e3a80d83fec9c58f4b5cc6569c45dc937ac7092bd8f5befe6df58b9f6d3efe123e80fe06523425b86910aab41a05fcc6ef078ac84b0e07f30b284cde91575cfb4e67d1702407bf55bb184670bae2f3c5cb661dfa67bb5e2d88f5e1501cbf59680bb80660e2193ae7a41ebf64bdc3ca498921431fa35f6a7fea9193b3ca215e9c4f674ca460ac2c226286b9518cf0ffcd71230b892539e921dba7e778894e6173d4779d98ac92a78438e3a49aceb4454c9270d7fcd4671bd684fcb023642e6920a3bf83c8aa605bd7d9813d595b6cb098e2d64f08a32a5744fc77ce78bfd305760f9a197b4cf9b2e39527d15d5142cfbbc674c6a30b8c26ed4e2da0defde1686a5facd1873a614bbbf79eb3e6f17495007093235a25c4ca8a82c16a6a3fd97aee7c6cf761933be8752ddeed6f2fb914fd93c055513852bebbd146251584fa5834bf0907b4daec0f546a1de141705255b78042a4e3bf4a2c26949d3617ff8ab192a0040070f613883961cc103b4a222b200736427248a33331588066a343e3303bd4b5e88e5a7319873f2f3c79e625960c655504c9b941c71caf50f4caf02b33bdcb79dfa3ca674ea42b68308b248cafef90b81bcd5efbfb9d11c7082f11fa9de377250eb677ef7d5e9c7cc2a1f6c2c45b92ed2dd681eec6aaa118cabeeb00e96f2ba95e307e05a70c2903d6ed542497635547e07790f5c03c9eccd53805b463e7988df75d14efa8bd6e66b545a1e22947d378f13f18f67dcf08985a91abeb20f55e1bc75d33e5b5b0ce0da3d9a005b3f205604e95865384a668c4d368adbc428577293380487a566e02963a23fbea83292fc625068b3036bc5d217d57edb1d21bd63d90dbb18e31ce5bba70b8d6bba33333cea39ff9cc9ad7a493904fe5b67890c22286f41468e68b600a76c5715e6465a1cfd37d42f7b748f23f4b8e42154dc8fa2ea128bbe45f703b78bba1918980c957aa08157d4f64d1c26a649ba60fdb2fb3b4a49323b493021ab4a80a5fc1f609d725edc1f8f338a67936c86e958b363ae770c0948f75c88a275c0dd1ab564cb20487667986e6e36c8526bc1e7ecc890ac0722dac1e7fae8573d4a84d54afce312853686e8c76300fabb60f535e303da7eb9e4f90ea955c30ca0615a968ba9e0552a56077dd83dbd36f8f986e8a3ab5864574a6d30aaccab31619e7e0dc8ff90aea08bc4e666c101a59110f7ed334698ec053ef848c15ea35035ab80f3bf78b5162b57649f6917942a0d648492b6254d42eee531c16f914cb7f37bed4dc2741d146c5dd11a46ac09306daa44c7a2772d6fbabf77894e4a79185791018df642600fbb5aafc6b1437f9c697733e7b3566b532dba6fa66dce18482c5b3586e5e191b1bebd21b12d2f54a24794ee217a8af22023fcef3cf2aa52b6da815daca142ea04c636d729aa9e92e9f5b74316cf5cadb605b3e22cd8c1b1d685acc2f4d3ce48692ea799f41c2b7d340536e8338d074e795847ba909bf10914bc9c09b44e7a78ffa971c2fa56ddab7b40726490aff478c0df81cd5c8c86cd93e7733348848f665cd240e2d325e49d695fef9e67d12672795e3126b39902729ffab5ec0997bd7123c9e6e90dc5f6fe1d322b951de5cfa081497fb5f69c14291f57d51b1693010ac8681635e7ed810b03801478fd97200f7d98eea7febe994ee15cc628afb18d0ab0a7e74c9e9391787ad6ee20b6a475c8fe41432b63ee26fc2c2e3d3a936276cb864a0b3c1582898a8dae59e45c68581ae2fc51117fb4973cadf3485f927717150b3de1b1e863a7320732283a0963808664af1450e2e31e9945a0f9505fbe15618621195b8fe9527a9a0ebf8b6baf36fce89b417b88ef7f747c1db92837f225051ccdcc67e7be97dc6768aaccfa41097d21b1e13782d11e6640d6b3df669aa36069dfbb7842d37bd187e5b7a80a2136b314e0481aacf89a56fd20c3afe810941f9a14e09801e7314251e958cb649dcfa8ebd895cc5c5d03784298f966253cad8f6a09bf5b79df022cd20e007f9ac608650efcc3f97743eb20eb59bf3a22c54f0489d65337373dda39463fbed0828739629dcad57d873fcea206582b197fedf252e4fda7d29ce379a5ff91ef0d7701f1ba88dbcd7ad1a6a9d59f04f007fac0992daee3d6012d17f06fb4378be648b24bd743a10e6470213c44b2aa7c61df0d6de3f24869c75b50c182aa496145dc6e9cbe41de29385ba2eab677cabb9f4e2aae92faa42a0addc7549f622dbce620cf9fea87e94a18f8be1391378e3612fc03cae109de3801a6eedb932cb0dcfc753ec300945e943af2385be3c49df5edcebf2981ac2b3124a838e3ff5dee27d58b70a40a0648986dd12a59f3dbdcd0f6a14ef0c45fef9f538020c95478d6eb16dc81bbc38ff314e23df71cf0b86ac3ee23b484168d38fd176a75f30377cabb90039e9a99cde85b417d7cbc303b6c776e026e47e3be78c56ddbe191c0de24859e9d50ab1f2dd247a52a0add0f9725bb3bb65d710034aec00df2edff4a5ddf940c0c4784f42710088b0989693fd128e49d97003cb8e46d79dc85e3934568e3b2699ed532a4a47d54c3fa61c97ec4139788bc6f9ac906da5a602288aa691919f4fe964016f8cbb83b45a34cd4338849de9b02336702400ca781134315b7611b970dcaba94ac4adee673d093b011ac0105e0b90ff6c8f8474e632b3637fb5465fd0b0382f37d0a6fb0d28a98af6f2bf740d07ccbb14281dc99721e7aa171cb93370d50d309b7ab60e7333e2e1bb520e56aab9f524d23b22aa70a88d36efa611bb5522c4b1579404a75fe95260725902b53fa2644c01d7c08cff2956219bbf1aa4e012b67a88a542cedb0cb361b7cf8291ce075b009052c14ae1ba095f29889d47b78fc7a3a9b5800e6c3dbbf733ff39d87e094301e895fef486df66f36343897ae47e3884d972675c8289867ecc2f2afcafd17e1fffc14cac567484782af0226ec6beab6aeb87390b38b3e2cbc3157f9de090da7ce09ffd86e4d63dd957765d9461575595058a51dd6e54bb66fa3c60de2abfbf23a471e5e0363b26383f5b2748556be1b1957538175d0ebafefe205d3445ef4a8e7a05e9541cedf0735774fdac29ae8994f5591d66d8a8d162604b0e45c8d0339f1336b57e8ce697a7177ec7d59054c8278900b80f8c1fb7f800ced889722fb819b7f39befa7b1028be7779e9c37065cd61947b6c20c226ee73ce47c7616943647cb01b39bd62aa87effd3ea5ec71b829144f25def0b777647ccdfbe017d5ce7b8927339bf49fe5f059eacfb78ff02eec6aeff337a8acc64d441a793875cce7581e60cd192096adf551b31e970cccaecd1586e5cc1289a3adc97476fcbeeb768be893aa0d0fd0edf549c1c13adab28b2980242d1ec92789ee9a7178c2ff5ebcf250ced2e07889cdbda962557f20a99f93176e9a4e4ed8903981db70b8f6f985b8e8ee11a801e9f4c1fda5e7d908d377a584de37d77d3da2ec65e2f0e6ba77d7adf7d84cd9ce305606107e2f8500ce58b61ae498f189d9939a88a187dbb51391addb18cd649b914cb3c2b509093ade9040454ffb9b175631f7cc4ae84d5d2272ff543c7bcedd9a2eef9b6652ab233facc312f222bcfbba08903e6605054b70f5f9abc44fa7cdeae35bba3e4cdfb3756ef16fa09ea2b249d1a732dae1609cbec7e12a12621a6ccc6cc68f08bf01cc48b383f96360cbcef4ed9d8a78b85789fd1344860e69d06465a8b1815fe00565c55c3fc31e81251d7947fd418d892e82d1dba9a45310a4e064fd7cceef4486baed412b40e604d7f72a0db95cb0ef6d746b9115323b55be1603f0b995286816fff6a91e4076c75b02eadce2f3835c40f8baf5572f168cfe613a6212c23b98b08677cbde04fa982241d22ce9e2ebba5351c66b91520363f549cc87a7a3b8640175b4863a13653cb5c3fa0dafd5a10bb63bff36185727d9177b794a404b3f26a579bdc713363d005a95cb8a819361449ca1f460bc19059cfc552168a797bfef9a7f20ccc6f1c44e7d02302a8c898ae98db05b86ceb88b8427940c331740487ffa7a05c4f9a0e9b23535ed5b89dbadd963639629733c4ef32de742cae580e2f2f64afa54b8bf0491bd515da857abe6258dc1271ff52b3e63f345736f6a8f1703d30565bbd0e2fa7e05dfc3a72f5ec1ef3952baacc80ff422e4e3ba5b6dad4853c89c628682c704dfba8da2f79b312567d329a1d0689176bd840a6d85bb7caf84456abfadbe69514810fbdda0808ad6a8dfb9b3fd91e9211139a827094a2c9838e21d79cd672c545633d2774900aa3a4fbfb0181eb365eb899b9fddffd849d6036d5d2a656ff446ca9602d1179e247f2719ff01eb9149d22281d035bb1d2f26fc092db695848039dc97c8e6c3103c2b4419862e4eefc95c765ec12e38e13e3a0f7048b72aded69fb7f84bae55de80c235e75f04b84cb83e7f4eea29c10e1946366ef2b2791403d74f8ee0f79ca08df1a0c351e00278b2eb3bf2775f94fa1bcc232d2714030b06a4b238d8751c868d868fc766f208007e1dbf5cab5799aba07757fe8281afc718c7bf3cd28d74be38e04139ef30e48290de80c9be33f97c7e97f4ad021199ff5899dcc15b208f399f07040164e82e89a8904729dbc9a1f97b6382c737040678195f47ffeb0013e5278462869375af84d6b0791cead139611e5b412919a52d8fa21c6fb0c1c1f806f225737c820dd40676fcb9b79d87546242e4ea1793d9f62529baa5f9abb0d43d44f8918836bca598edbea9800f317a30122c2f7bc0a7db52b481d0f21d38713e084d6596bfa7288c5d00e68ab30882339ab6df694574b2626582db210f9b29da75c5201ed0a3e7e599431680f303f24e1b48a4e264ed254933e60038e85485fcf68eb34de07c6dfa177083aaa69c0cd95178e5a2cbc86e075da2f6205d716db409fe3a06a78593f01247524a307</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     
     <summary type="html">「La vie.」</summary>
     
     
     
+    <category term="日记" scheme="http://www.n45.in/categories/%E6%97%A5%E8%AE%B0/"/>
     
-    <category term="diary" scheme="http://example.com/tags/diary/"/>
+    
+    <category term="diary" scheme="http://www.n45.in/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>Anna, si douce.</title>
-    <link href="http://example.com/2018/11/01/Anna-si-douce/"/>
-    <id>http://example.com/2018/11/01/Anna-si-douce/</id>
+    <link href="http://www.n45.in/2018/11/01/Anna-si-douce/"/>
+    <id>http://www.n45.in/2018/11/01/Anna-si-douce/</id>
     <published>2018-11-01T22:23:33.000Z</published>
-    <updated>2020-09-20T12:55:18.638Z</updated>
+    <updated>2020-09-20T21:39:46.641Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「Anna-Varney Cantodea.」</p><hr><blockquote><p>灵魂在安娜的曲里翩翩起舞，<br>心上开出五彩的花。</p></blockquote><p align="right">2018.11.1日,于布拉格。</p>    <div id="aplayer-oAYINVsL" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="4279447" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>Night of the Scarecrow</em> - SOPOR AETERNUS &amp; The Ensemble Of Shadows<br><em>Children of the Corn</em><br>℗ Apocalyptic Vision Records GmbH<br>Released on: 2003-01-27</p><hr><p>之前在读爱伦坡时，读到The Conqueror Worm，耳机里也正巧放到安娜的这首歌，仿佛歌与诗相互吸引。她的声音有能抚平一切哀伤的魔力，Alone(1)和Beautiful陪我度过了多少难过的日子。</p>    <div id="aplayer-nlSxOxRS" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="27725388" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>The Conqueror Worm</em> - SOPOR AETERNUS &amp; The Ensemble Of Shadows<br><em>Poetica</em><br>℗ Apocalyptic Vision Records GmbH<br>Released on: 2013-09-19</p><hr><p>一次花了很长时间扒出Harvest Moon的谱子，改成了长笛二重奏。由于技术不佳，谱子格式和编排都不尽如人意。拿去给长笛老师看，想着一起吹，这支我很喜欢的曲子却在刚开头就被否定了。从此再没和别人说过这张谱子，对长笛的热情也渐渐淡了下来。<br>难过的是人和人不能总是心灵相通。</p>    <div id="aplayer-mDLWGfiG" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="4279458" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>Harvest Moon</em> - SOPOR AETERNUS &amp; The Ensemble Of Shadows<br><em>Children of the Corn</em><br>℗ Apocalyptic Vision Records GmbH<br>Released on: 2003-01-27</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「Anna-Varney Cantodea.」</p><hr><blockquote><p>灵魂在安娜的曲里翩翩起舞，<br>心上开出五彩的花。</p></blockquote><p align="right">2018.11.1日,于布拉格。</p>    <div id="aplayer-MHdRiRyJ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="4279447" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>Night of the Scarecrow</em> - SOPOR AETERNUS &amp; The Ensemble Of Shadows<br><em>Children of the Corn</em><br>℗ Apocalyptic Vision Records GmbH<br>Released on: 2003-01-27</p><hr><p>之前在读爱伦坡时，读到The Conqueror Worm，耳机里也正巧放到安娜的这首歌，仿佛歌与诗相互吸引。她的声音有能抚平一切哀伤的魔力，Alone(1)和Beautiful陪我度过了多少难过的日子。</p>    <div id="aplayer-laQrkUFB" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="27725388" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>The Conqueror Worm</em> - SOPOR AETERNUS &amp; The Ensemble Of Shadows<br><em>Poetica</em><br>℗ Apocalyptic Vision Records GmbH<br>Released on: 2013-09-19</p><hr><p>一次花了很长时间扒出Harvest Moon的谱子，改成了长笛二重奏。由于技术不佳，谱子格式和编排都不尽如人意。拿去给长笛老师看，想着一起吹，这支我很喜欢的曲子却在刚开头就被否定了。从此再没和别人说过这张谱子，对长笛的热情也渐渐淡了下来。<br>难过的是人和人不能总是心灵相通。</p>    <div id="aplayer-mxvgydzW" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="4279458" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>Harvest Moon</em> - SOPOR AETERNUS &amp; The Ensemble Of Shadows<br><em>Children of the Corn</em><br>℗ Apocalyptic Vision Records GmbH<br>Released on: 2003-01-27</p>]]></content>
     
     
       
@@ -140,19 +196,21 @@
     
     
     
+    <category term="感" scheme="http://www.n45.in/categories/%E6%84%9F/"/>
     
-    <category term="music" scheme="http://example.com/tags/music/"/>
+    
+    <category term="music" scheme="http://www.n45.in/tags/music/"/>
     
   </entry>
   
   <entry>
     <title>Echos</title>
-    <link href="http://example.com/2018/07/15/Echos/"/>
-    <id>http://example.com/2018/07/15/Echos/</id>
+    <link href="http://www.n45.in/2018/07/15/Echos/"/>
+    <id>http://www.n45.in/2018/07/15/Echos/</id>
     <published>2018-07-15T19:54:16.000Z</published>
-    <updated>2020-09-20T12:19:16.581Z</updated>
+    <updated>2020-09-20T21:39:52.431Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「夜晚的海是我心中最浪漫的风景。遥远的梦在星星闪烁的地方，而海的尽头有我所爱的人们。」</p><hr><blockquote><p>任何词汇都无法形容这张专辑的灿烂。<br>在我心中<em>Echos</em>属于夜晚的海，最合拍的伴奏是永不停息的涛声。<br>她是呼唤风暴的战歌， 是繁星闪烁着的遥远的天边，是远洋的召唤。<br>我愿用我渺小而平凡的生命拥抱面前无边的黑暗，我愿向这海踏上没有归路的旅程，梦会指引我向光明。</p></blockquote><p align="right">2018.7.15日晚，日照。</p>    <div id="aplayer-EvFnegCs" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1537382" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>Echos</em> - Lacrimosa<br>℗ 2003 Hall of Sermon<br>Released on: 2003-01-27</p><hr><p>记得上一次是2018.3，当时在菲律宾的Bauan Divers Sactuary Resort潜店的岸边，正值中午，耳机里放着<em>Malina</em>，突然晴空遁入黑夜，海面巨浪滔天。<br>第一次感受到音乐能改变天象。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「夜晚的海是我心中最浪漫的风景。遥远的梦在星星闪烁的地方，而海的尽头有我所爱的人们。」</p><hr><blockquote><p>任何词汇都无法形容这张专辑的灿烂。<br>在我心中<em>Echos</em>属于夜晚的海，最合拍的伴奏是永不停息的涛声。<br>她是呼唤风暴的战歌， 是繁星闪烁着的遥远的天边，是远洋的召唤。<br>我愿用我渺小而平凡的生命拥抱面前无边的黑暗，我愿向这海踏上没有归路的旅程，梦会指引我向光明。</p></blockquote><p align="right">2018.7.15日晚，日照。</p>    <div id="aplayer-NiJjAWvq" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1537382" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="300px" data-preload="auto" data-theme="#555"    ></div><p><em>Echos</em> - Lacrimosa<br>℗ 2003 Hall of Sermon<br>Released on: 2003-01-27</p><hr><p>记得上一次是2018.3，当时在菲律宾的Bauan Divers Sactuary Resort潜店的岸边，正值中午，耳机里放着<em>Malina</em>，突然晴空遁入黑夜，海面巨浪滔天。<br>第一次感受到音乐能改变天象。</p>]]></content>
     
     
       
@@ -162,17 +220,19 @@
     
     
     
+    <category term="感" scheme="http://www.n45.in/categories/%E6%84%9F/"/>
     
-    <category term="music" scheme="http://example.com/tags/music/"/>
+    
+    <category term="music" scheme="http://www.n45.in/tags/music/"/>
     
   </entry>
   
   <entry>
     <title>记六年</title>
-    <link href="http://example.com/2018/06/22/%E8%AE%B0%E5%85%AD%E5%B9%B4/"/>
-    <id>http://example.com/2018/06/22/%E8%AE%B0%E5%85%AD%E5%B9%B4/</id>
+    <link href="http://www.n45.in/2018/06/22/%E8%AE%B0%E5%85%AD%E5%B9%B4/"/>
+    <id>http://www.n45.in/2018/06/22/%E8%AE%B0%E5%85%AD%E5%B9%B4/</id>
     <published>2018-06-22T18:30:54.000Z</published>
-    <updated>2020-09-20T12:53:06.854Z</updated>
+    <updated>2020-09-20T21:35:23.931Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「二〇一八。」</p><hr><p>大约一年前，我写了《记小高考》这样一篇文章，而如今高中即将结束，我决定以这篇名为《记六年》的文章作为我中学六年的终点。</p><p>这一年的时间养成了偶尔写日记的习惯，拥有了一册写着回忆的绿皮本子，或许这篇文章能回忆起更多当时真切的感情吧。</p><p>依稀记得六年前的自己，那时从小学养成的无忧无虑的张扬的性格被无数耀眼夺目的同学磨去了棱角，逐渐小心翼翼，于是寻找他人的光芒装点自己，盼望变成天鹅的样子。显然我失败了，如今的自己与天鹅相去甚远，但能终于有幸拥有深爱的事物，拥有自己的世界，自己的想法，拥有一点点不惧怕孤独的勇气。</p><p>与别人不同和曾无比惧怕的孤独我如今不认为是什么需要纠正的过错。这里的不同并非是好的方面。曾被妈妈说了孤僻，但往往独处时总在心中酝酿着宽容、理智、爱等等善良的情绪，而置于人多处却忙着厌恶别人和厌恶指责别人的自己。于是渐渐形成自己的想法，也渐渐拥有独立思考的能力，学会与孤独作伴。</p><p>之前几个月总在试图评判一件事的对与错，而最近终于知晓是徒劳的。于是我又将标准降低了一些，一切聆听圣母颂时能唤醒其对神圣的敬畏之心的人我都不愿当做坏人。至于底线以外的道德，我也只愿用其中认同的部分来约束自己而非他人。</p><p>成长的代价是有时忘却生命的意义，每到此时总很想去非洲，在草原上看猎豹奔跑，而心总会跟着那美丽猫科动物的生命一起燃烧。或是跟随座头鲸从赤道到南极旅行，去俯瞰Mount Erebus，追逐冰原上的狂风。我不希望我的生命以一成不变的日常奔向最终的结束，那些生命的奇迹是我心中的光，而余下要做的只是等待她们的到来。</p><blockquote><p>“我的梦想是一片一望无际的海，那里萦绕身畔的是自由之风，我将从那里启航，向着世界尽头的彼岸。”</p></blockquote><p>那时身旁交织的泪，远处的呼唤和永不停息的涛声中我这样写到。</p><p>对海的执念不只从何时起。有印象的是年初下雪的冬天坐在二楼的摇椅上，看着持续了近一年的《风与木之诗》的最后一本，吉尔贝尔说想看海，之后死在雪地里。眼前过于巧合的大雪中我与漫画中的风之少年产生了共鸣，并当时萌生出极强烈的想坐游轮的想法。当然并没有实现，原定计划的时间去了菲律宾学潜水。是湖一样被环绕着的海面，夜空下的泰伊斯冥想曲中我与遥远的繁星和海风坠入爱河。接着那之后两天在万里晴空下听着泪团的Malina，正午一瞬转入黑夜，面前平静的海面掀起滔天巨浪。关于大海的一切给予我自由，海上响起的歌声是自由之歌，涛声和海风萦绕的梦变成了蓝色的自由之梦。<br>于是所有的努力有了理由，为自由而坚持，梦会给予我前行的力量。</p><p>到了启程的时候了，家的确是安全的港湾，但船生而为了远航。</p>]]></content>
     
@@ -184,17 +244,19 @@
     
     
     
+    <category term="总结" scheme="http://www.n45.in/categories/%E6%80%BB%E7%BB%93/"/>
     
-    <category term="temps" scheme="http://example.com/tags/temps/"/>
+    
+    <category term="temps" scheme="http://www.n45.in/tags/temps/"/>
     
   </entry>
   
   <entry>
     <title>记小高考</title>
-    <link href="http://example.com/2017/03/22/%E8%AE%B0%E5%B0%8F%E9%AB%98%E8%80%83/"/>
-    <id>http://example.com/2017/03/22/%E8%AE%B0%E5%B0%8F%E9%AB%98%E8%80%83/</id>
+    <link href="http://www.n45.in/2017/03/22/%E8%AE%B0%E5%B0%8F%E9%AB%98%E8%80%83/"/>
+    <id>http://www.n45.in/2017/03/22/%E8%AE%B0%E5%B0%8F%E9%AB%98%E8%80%83/</id>
     <published>2017-03-22T19:12:23.000Z</published>
-    <updated>2020-09-20T12:53:03.568Z</updated>
+    <updated>2020-09-20T21:35:36.160Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>「二〇一七。」</p><hr><blockquote><p>我们不走，就留在这，因为我们已经在这生了一个孩子。<br>我们还没有死人，只要没有死人埋在地下，你就不属于这个地方。</p></blockquote><p>看考点时早去了约一个半小时，于是去了附近的玄武湖吹冷风。</p><p>说起来前段时间本应举行的长跑正是我脚下走的这条路，但具体是什么时候我已经没什么概念了，正如小高考结束后没几天我写这篇文章是似乎考试也已是上辈子的事，伴随年龄增长我总在逐渐丧失对时间应有的正确认知。而这次在这样一个潮湿且并不十分舒适的下午重走这样一遍，也能姑且算作是补上了这高中生涯最后一次抱憾的不了了之的长跑。</p><p>这么说上一次真正意义上的大考还是中考，不过我已全无印象，只记得成绩比现在好上许多。无论嘴上如何说要重视过程而淡化结果，如此重要而又付出颇多的过程最后只缩合成了一个结果——即“考上高中”，甚至连分数是多少这样的经过也略去了，让人不禁联想几年甚至几个月后小高考的结果也不过会留下几个等级。结果背后究竟过程如何在那时也就不会有人在意，于是思考这样的付出究竟有何目的以及我脑海里流失的时间价值几何。</p><p>这里终于说到了开头那两句对白。最近抽空看了《百年孤独》，而这段话说是整本书我最喜欢的几句也不为过。因为它完美解答了我这时的疑惑和彷徨。所谓创造归属感的不是新生而是埋葬死亡。</p><p>思考这段话真理性时发现，能在我心中留下深刻印象的似乎自小至大都不是一种全然正面如同喜悦这样的情绪，而是负面的或混合负面与正面的复杂的情感，如悲伤、失望、懊悔……以致当我回忆过去时像幅心电图，平整的并不激烈的快乐中总有种种并不那么快乐的事实猛的刺了一下，用唤醒一个快遗忘的人的力度。</p><p>就像我此时关于小高考所想起的是某个黄昏放学的午后，思考着“是否可以就这样放弃努力”这种本不该疑惑的问题。但最终得出的答案是否定的，因为我需要不断埋下新的遗憾以维持记忆的心脏的跳动，而不努力不会有等待遗憾降临的机会，能等来的永远只有空虚。</p><p>我一直不擅长记忆，于是习惯于将重要到需要记住的事一次又一次重复。像我习惯于尝试在走过同一段路时还原与前一次完全相同的情景以求得同一心境那样，此时我走在玄武湖边，听着同一首歌，再一次想同样的问题时，思考这个问题本身所带来的愧疚的刻痕又加深了一次。</p><p>就这样一个又一个遗憾的刻痕构成了我对整段目前为止的高中生涯的全部眷恋。我知道高二为小高考而奋斗的时光永远不会也不可能被画上一个所谓“圆满的句号”，但它正因缺陷才变得无可替代。这段时间内的徘徊与孤独掺杂着十四点晒死生态瓶中鱼儿的太阳也无法清除的阴冷，可正是这一点点细小的、与成功的喜悦相比无比微不足道的情感将永留在命运的洪流中，挥之不去。</p><p>鸡鸣寺的樱花就快盛放，而早樱向来只开一个星期。我计划的一项拍摄任务因考试和学农以及连日阴雨或会因错过盛开时节而取消，但我从没因此而担心和焦虑。阴天不是理想的，我所等待的是个少云而清新的下午。刺目日光下漫天光影流连的情境早在我脑海中演绎了无数遍，这项任务的真正重要性不在于几张照片本身，而在于其带来的“这个时节一定要做这样一件事”的使命感。今年错过仍有明年，明年之后依然有后年，在如此年复一年的等待中对这项任务所抱有的期待和牵挂会逐渐酝酿，计划也因此被不断周全，终于将变成我最用心做的几件事之一，此景也将愈加美好。但矛盾的是尽管如此，我依然要在今年拍这么几张照片——明年的阴霾不会是同样的阴霾，明年的晴朗现在也不得而知。明年的拍摄技术将更加精进，明年的时间会更加充裕，明年会怀着对自然更深厚的敬意，但这一切无法否定今年存在的价值。2017这年的阴雨是值得留念的，因为我看见此景时的遐思早已在吃力地拖着连接过去的绳子蹒跚前行。</p><p>时间如果不消磨一件事的价值，相反的，就会培育它。死人和岁月的积淀使一块土地能真正“养一方人”，而说不上是什么——也许是掺杂着电灯的冷光的呼吸或是白纸上红黑字迹的交织亦或是脑中纠缠不清的念想的争斗——的积累使小高考成为高二时期最重要一项成就——而非那几个看上去意义重大的字母。</p><p>开头的对白其实没有结束，余下这样一句。</p><blockquote><p>如果非要我死了才能留下，那我就去死。</p></blockquote><p>能在万物生长的季节结束这段回忆是我的荣幸。为了留些什么在这段易逝的光阴中，我踩着脚下玄武湖边发冷的泥土，闭上三秒钟眼睛，于是一场风暴向未来呼啸而去，并在过去留下狂风暴雨。<br>记小高考，我十六岁这年所埋葬的时光。</p>]]></content>
     
@@ -206,8 +268,10 @@
     
     
     
+    <category term="总结" scheme="http://www.n45.in/categories/%E6%80%BB%E7%BB%93/"/>
     
-    <category term="temps" scheme="http://example.com/tags/temps/"/>
+    
+    <category term="temps" scheme="http://www.n45.in/tags/temps/"/>
     
   </entry>
   
